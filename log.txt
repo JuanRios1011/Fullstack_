@@ -1,0 +1,6 @@
+2025-10-16T23:42:05.859Z - Método: GET - URL: /
+2025-10-16T23:42:06.601Z - Método: GET - URL: /favicon.ico
+2025-10-16T23:42:10.960Z - Método: GET - URL: /leer
+2025-10-16T23:42:16.154Z - Método: GET - URL: /actualizar
+2025-10-16T23:42:22.315Z - Método: GET - URL: /eliminar
+2025-10-16T23:43:04.978Z - Método: GET - URL: /leer-log
